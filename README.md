@@ -1,11 +1,16 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Hi+I'm+Sargam+Singh;Computer+Science+Student+at+VIT+Vellore;Aspiring+Software+Engineer" />
-## Hi 👋, I'm Sargam Singh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Sargam+Singh;Computer+Science+Student+at+VIT+Vellore;Aspiring+Software+Engineer" />
+</p>
 
-🎓 B.Tech CSE UG Student
+# Hi 👋, I'm Sargam Singh
 
-🌱 Currently learning AI, Machine Learning and Full Stack Development
+🎓 Computer Science Student at VIT Vellore
 
-🚀 Passionate about Coding and Problem Solving
+💻 Aspiring Software Engineer
+
+🚀 Passionate about Problem Solving, AI, and Machine Learning
+
+---
 
 ## 🛠️ Languages and Tools
 
@@ -13,18 +18,28 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,git,github,vscode" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sargam-here&show_icons=true&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sargam-here&show_icons=true&theme=tokyonight" />
+</p>
+
+---
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SARGAMSINGH)
+<p>
+  <img src="https://leetcard.jacoblin.cool/SARGAMSINGH?theme=dark&font=Karma" />
+</p>
+
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sargam-singh">
+  <a href="https://www.linkedin.com/in/sargam-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
