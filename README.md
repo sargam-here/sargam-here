@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Hi+I'm+Sargam+Singh;Software+Engineering+Intern;AI+%7C+ML+%7C+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Hi+I'm+Sargam+Singh;Computer+Science+Student+at+VIT+Vellore;Aspiring+Software+Engineer" />
 # Hi 👋, I'm Sargam Singh
 
 🎓 B.Tech CSE UG Student
