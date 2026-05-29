@@ -8,10 +8,9 @@
 
 ## 🛠️ Languages and Tools
 
-- Python
-- C++
-- C
-- Java
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,git,github,vscode" />
+</p>
 
 ## 📫 Connect With Me
 
