@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sargam-here&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 💻 LeetCode
 
 <p>
