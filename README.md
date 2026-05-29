@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Sargam Singh
 
-<!--
-**sargam-here/sargam-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE UG Student
 
-Here are some ideas to get you started:
+🌱 Currently learning AI, Machine Learning and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about Coding and Problem Solving
+
+## 🛠️ Languages and Tools
+
+- Python
+- C++
+- C
+- Java
+
+## 📫 Connect With Me
+
+LinkedIn:(https://www.linkedin.com/in/sargam-singh/)
